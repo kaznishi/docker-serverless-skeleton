@@ -1,0 +1,16 @@
+{
+  "name": "serverless-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serverless": "./node_modules/serverless/bin/serverless"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "aws-sdk": "^2.224.1",
+    "lambda-local": "^1.4.7",
+    "serverless": "^1.26.1"
+  }
+}
